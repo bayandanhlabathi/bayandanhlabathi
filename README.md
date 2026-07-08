@@ -2,7 +2,15 @@
 
 ## 🎓 About Me
 
-I'm an IT Software Engineering student from South Africa who is passionate about building software and continuously improving my skills.
+I'm an IT Software Engineering student from South Africa with a strong interest in backend development, databases, and building practical software solutions. I'm continuously learning new technologies and expanding my programming skills through university projects and personal development.
+
+## 🌱 Currently Working On
+
+- Building my software engineering portfolio
+- Improving my Java programming skills
+- Learning Spring Boot
+- Exploring Git and GitHub workflows
+- Strengthening my database design skills
 
 Currently learning:
 
@@ -26,15 +34,22 @@ Currently learning:
 
 ---
 
-## 🛠️ Tech Stack
+💻 Languages
+* Java
+* SQL
+* HTML
 
-- Java
-- Oracle SQL
-- MongoDB
-- Neo4j
-- Git
-- GitHub
-- HTML
+
+🗄️ Databases
+* Oracle
+* MongoDB
+* Neo4j
+
+🛠️ Tools
+* Git
+* GitHub
+* IntelliJ IDEA / NetBeans
+* VS Code
 
 ---
 
