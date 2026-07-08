@@ -55,10 +55,7 @@ Currently learning:
 
 ## 📂 Current Projects
 
-- Java Programming
-- Database Systems
-- Software Engineering
-- GitHub Portfolio
+
 
 ---
 
